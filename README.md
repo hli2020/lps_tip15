@@ -4,8 +4,11 @@ The code and results of the Label Propagation Saliency (LPS) work published in I
 There are two versions of the paper, one is the camera-ready paper published in IEEE (link here); another is the author-preferred full version covering a complete experiment report in different datasets (available in arXiv).
 
 ## Usage
+We test our code on Windows 8.1, Ubuntu 14.04 and OSX Yosemite with Matlab 2014b.
+
 
 ## Results
+Saliency maps of the proposed algorithm on [MSAR-1000], [MSRA-5000], [CCSD-5000][], [PASCAL-850], [THUS-10000]. 
 
 ## Results of other models
 We provide some (time-consuming-to-generate or dependencies-heavily-relied) results of other saliency detectors. We use the original software/code provided in the authors' website (but they does not include maps in the datasets that we experiment on). Do **NOT** email me inquiring on the availability of other models' results.
