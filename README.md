@@ -1,22 +1,25 @@
 # lps_tip15
 The code and results of the Label Propagation Saliency (LPS) work published in IEEE Trans. on Image Proc. (TIP 2015)
 
-There are two versions of the paper, one is the camera-ready paper published in IEEE; another is the author-preferred full version covering a complete experiment report in different datasets (available here or in arXiv).
+There are two versions of the paper, one is the camera-ready paper published in IEEE; another is the author-preferred full version covering a complete experiment report in different datasets (available in arXiv).
 
 ## Usage
 
 ## Results
 
 ## Results of other models
-We provide some (time-consuming-to-generate or dependencies-heavily-relied) results of other saliency detectors. We use the original software/code provided in the authors' website (but they does not include maps in the datasets the we experiment on). Do **NOT** email me inquiring on the accessibility of certain models' results.
+We provide some (time-consuming-to-generate or dependencies-heavily-relied) results of other saliency detectors. We use the original software/code provided in the authors' website (but they does not include maps in the datasets the we experiment on). Do **NOT** email me inquiring on the availability of other models' results.
 
 Currently, the following models are provided (maybe updated once in a while).
-* *Saliency Tree: A Novel Saliency Detection Framework*, IEEE Transactions on Image Processing, Vol.23, No.5, May 2014.
+* *Saliency Tree: A Novel Saliency Detection Framework*, IEEE Transactions on Image Processing, Vol.23, No.5, May 2014. [CCSD-5000][] [PASCAL-850] [THUS-10000] [ALL]
 
 
 
 ## Paper discussion
-I will list the most frequently asked questions here for future convenience (if there's any, stay tuned!). Please feel free to contact me and add **LPS_TIP** at the beginning of the email subject so that I know you have read this. Otherwise, I will not reply at all for the obvious reason.
+I will list the most frequently asked questions here for future convenience (if there's any, stay tuned!). 
+
+## Email the author
+Please feel free to contact me and disuss the details (although I do not focus on saliency detection now, but I have some occasional paper reviewing job). Please add **LPS_TIP** at the beginning of the email subject so that I know you have read this document. Otherwise, I will not reply at all for the obvious reason. Also, do me a favor and do not ask silly questions like how to use the code or help you download the results.
 
 ## License and citation
 This research is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE). We encourage an attitude of reproducible work for academic-only purpose. Please kindly cite our work in your publications if it helps your research:
