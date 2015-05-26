@@ -8,7 +8,7 @@ There are two versions of the paper, one is the camera-ready paper published in 
 ## Results
 
 ## Results of other models
-We provide some (time-consuming-to-generate or dependencies-heavily-relied) results of other saliency detectors. We use the original software/code provided in the authors' website (but they does not include maps in the datasets the we experiment on). Do **NOT** email me inquiring on the availability of other models' results.
+We provide some (time-consuming-to-generate or dependencies-heavily-relied) results of other saliency detectors. We use the original software/code provided in the authors' website (but they does not include maps in the datasets that we experiment on). Do **NOT** email me inquiring on the availability of other models' results.
 
 Currently, the following models are provided (maybe updated once in a while).
 * *Saliency Tree: A Novel Saliency Detection Framework*, IEEE Transactions on Image Processing, Vol.23, No.5, May 2014. [CCSD-5000][] [PASCAL-850] [THUS-10000] [ALL]
