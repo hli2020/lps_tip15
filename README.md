@@ -16,7 +16,7 @@ Currently, the following models are provided (maybe updated once in a while).
 
 
 ## Paper discussion
-I will list the most frequently asked questions here for future convenience (if there's any, stay tuned!). Please feel free to contact me and add **LPS_TIP** at the beginning of the email subject so that I know you have read this section. Otherwise, I will not reply at all for the obvious reason.
+I will list the most frequently asked questions here for future convenience (if there's any, stay tuned!). Please feel free to contact me and add **LPS_TIP** at the beginning of the email subject so that I know you have read this. Otherwise, I will not reply at all for the obvious reason.
 
 ## License and citation
 This research is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE). We encourage an attitude of reproducible work for academic-only purpose. Please kindly cite our work in your publications if it helps your research:
