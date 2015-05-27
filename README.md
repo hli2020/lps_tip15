@@ -8,7 +8,7 @@ We test our code on Windows 8.1, Ubuntu 14.04 with Matlab 2014b.
 
 
 ## Results
-Saliency maps of the proposed algorithm on five datasets. [[LPS_maps]()]
+Saliency maps of the proposed algorithm on five datasets. [[LPS_maps](https://www.dropbox.com/s/s6brh52llp91288/LPS_maps.zip?dl=0)]
 
 ## Results of other models
 We provide some (time-consuming-to-generate or dependencies-heavily-relied) results of other saliency detectors. We use the original software/code provided in the authors' website (but they does not include maps in the datasets that we experiment on). Do **NOT** email me inquiring on the availability of other models' results.
