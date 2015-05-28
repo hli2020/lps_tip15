@@ -28,8 +28,8 @@ para.k1 = 1/5;
 para.k2 = 1/100;
 cue_num = 3;                % in the release version, the cue LS is disabled.
 
-in_path = '/home/hongyang/桌面/最近结果/24_all_region_failure_original_image/*.jpg';
-out_path = '/home/hongyang/桌面/lps/';
+in_path = '/image/*.jpg';
+out_path = '/result/';
 mkdir(out_path);
 
 pic_dir = dir(in_path);
@@ -73,9 +73,6 @@ for k = 10:length(pic_dir)
     im = im2double(im);                         % range 0:1
     % extract features based on regions (superpixels)
     [ feature, bound_ind_temp ] = extract_feat_( im );
-    
-    % calculate affinity matrix based on graph construction and features
-    % ���һ������Ϊѡ��ŷ�Ͼ���(0)����������(1)
     [ P_Lab, W_Lab, adjloop ] = CalP_( feature(:,1:3), para.scale1, 0 );
     
     % drop some boundary nodes
@@ -92,7 +89,7 @@ for k = 10:length(pic_dir)
     sim = simNewRank_([], bound_ind, P_Lab);
     SIM = 1 - normVector_(sim,0);
     
-    score = compact_(reg_prop, SIM);     % �𵽿������ã�eqn.6 in the paper
+    score = compact_(reg_prop, SIM);     % eqn.6 in the paper
     compact_show{k,2} = score;
     
     if score < para.compactThres
