@@ -1,7 +1,7 @@
 # lps_tip15
 The code and results of the Label Propagation Saliency (LPS) work published in IEEE Transactions on Image Processing (TIP), 2015.
 
-There are two versions of the paper, one is the camera-ready paper published in IEEE (link here); another is the author-preferred full version covering a complete experiment report in different datasets (available in arXiv).
+There are two versions of the paper, one is the camera-ready paper published in IEEE (link here); another is the author-preferred full version covering a complete experiment report in different datasets (available in [arXiv](http://arxiv.org/abs/1505.07192)).
 
 ## Usage
 We test our code on Windows 8.1, Ubuntu 14.04 with Matlab 2014b.
