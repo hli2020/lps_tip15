@@ -4,8 +4,8 @@ The code and results of the Label Propagation Saliency (LPS) work published in I
 There are two versions of the paper, one is the camera-ready paper published in IEEE (link here); another is the author-preferred full version covering a complete experiment report in different datasets (available in [arXiv](http://arxiv.org/abs/1505.07192)).
 
 ## Usage
-We test our code on Windows 8.1, Ubuntu 14.04 with Matlab 2014b.
-
+We test our code on Windows 8.1, Ubuntu 14.04 and OSX 10.10 with Matlab 2014b.
+Just put your images in the directory and run demo.m! Results will be generated in the same directory.
 
 ## Results
 Saliency maps of the proposed algorithm on five datasets. [[LPS_maps](https://www.dropbox.com/s/s6brh52llp91288/LPS_maps.zip?dl=0)]
