@@ -5,7 +5,7 @@ There are two versions of the paper, one is the camera-ready paper published in 
 
 ## Usage
 We test our code on Windows 8.1, Ubuntu 14.04 and OSX 10.10 with Matlab 2014b.
-Just put your images in the directory and run demo.m! Results will be generated in the same directory.
+Just put your images in the directory and run `>> demo.m` in Matlab! Results will be generated in the same directory.
 
 ## Results
 Saliency maps of the proposed algorithm on five datasets. [[LPS_maps](https://www.dropbox.com/s/s6brh52llp91288/LPS_maps.zip?dl=0)]
