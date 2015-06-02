@@ -1,5 +1,6 @@
 % code (release version) of the Label Propagation Saliency published
 % in the IEEE Transactions on Image Processing, 2015.
+% Any bugs are welcome!
 
 clc;
 close all; clear;
