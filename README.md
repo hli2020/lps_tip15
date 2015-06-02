@@ -28,7 +28,7 @@ Please feel free to contact me and disuss the details (although I do not focus o
 This research is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE). We encourage an attitude of reproducible work for academic-only purpose. Please kindly cite our work in your publications if it helps your research:
 
     @article{li_tip15_lps,
-      Author = {Li, Hongyang and Hu, Huchuan and Lin, Zhe and Xiao, Huishen and Brian, Price},
+      Author = {Li, Hongyang and Hu, Huchuan and Lin, Zhe and Shen, Xiaohui and Price, Brian},
       Journal = {IEEE Transactions on Image Processing},
       Title = {Inner and Inter Label Propagation:Salient Object Detection in the Wild},
       Year = {2015}
