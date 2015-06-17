@@ -30,6 +30,7 @@ This research is released under the [BSD 2-Clause license](https://github.com/BV
     @article{li_tip15_lps,
       Author = {Li, Hongyang and Hu, Huchuan and Lin, Zhe and Shen, Xiaohui and Price, Brian},
       Journal = {IEEE Transactions on Image Processing},
-      Title = {Inner and Inter Label Propagation:Salient Object Detection in the Wild},
+      Volume = {},
+      Title = {Inner and Inter Label Propagation: Salient Object Detection in the Wild},
       Year = {2015}
     }
