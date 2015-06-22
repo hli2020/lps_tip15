@@ -1,7 +1,7 @@
 # Label Propagation Saliency
 The code and results of the Label Propagation Saliency (LPS) work published in IEEE Transactions on Image Processing (TIP), 2015.
 
-There are two versions of the paper, one is the camera-ready paper published in IEEE (link here); another is the author-preferred full version covering a complete experiment report in different datasets (available in [arXiv](http://arxiv.org/abs/1505.07192)).
+There are two versions of the paper, one is the camera-ready paper published in IEEE (link [here](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7115918&filter%3DAND%28p_IS_Number%3A7116674%29)); another is the author-preferred full version covering a complete experiment report in different datasets (available in [arXiv](http://arxiv.org/abs/1505.07192)).
 
 ## Usage
 We test our code on Windows 8.1, Ubuntu 14.04 and OSX 10.10 with Matlab 2014b.
@@ -30,7 +30,10 @@ This research is released under the [BSD 2-Clause license](https://github.com/BV
     @article{li_tip15_lps,
       Author = {Li, Hongyang and Hu, Huchuan and Lin, Zhe and Shen, Xiaohui and Price, Brian},
       Journal = {IEEE Transactions on Image Processing},
-      Volume = {},
       Title = {Inner and Inter Label Propagation: Salient Object Detection in the Wild},
+      Volume = {24},
+      Issue = {10},
+      Page = {3176-3186},
+      Month = {October},
       Year = {2015}
     }
